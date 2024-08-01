@@ -91,4 +91,4 @@ This project is licensed under the MIT License.
 
 ## Version
 
-0.1.2
+0.2.0
